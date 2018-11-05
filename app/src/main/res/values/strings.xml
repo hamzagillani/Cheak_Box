@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cheak_Box</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="title">Select Fruits</string>
+    <string name="apple">Apple</string>
+    <string name="ogange">Orang</string>
+    <string name="grapes">Grapes</string>
+    <string name="done">Done</string>
+
+</resources>
